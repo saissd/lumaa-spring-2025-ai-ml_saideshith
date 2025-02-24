@@ -26,3 +26,6 @@ output:  Top recommended movies:
 
 # SALARY EXPECTATION : (1600$-2400$ per month)I am open to discussing compensation based on the company's standard range for this role
 
+# i tried to mail you regarding how to submit my work but i the mail is not able to deliver even i tried to send it multiple times. 
+# and i check it many times how to fork my repository but i am unable to do it. Now i was able to find and do it. i apolozise for the late submission but please try to consider my submission
+## thankyou
